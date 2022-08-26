@@ -20,9 +20,16 @@
   </a>
 </div>
 
+<hr>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marawan6569">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marawan6569&theme=vue">
+<img src="https://activity-graph.herokuapp.com/graph?username=marawan6569&theme=minimal">
+<div  align='center'><img src="https://github-profile-trophy.vercel.app/?username=marawan6569"></div>
+
 
 <hr>
-
-<a href="https://github.com/marawan6569/">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarawan65691212%2Fhit-counter"/>
- </a>
+<div align='center'>
+  <a href="https://github.com/marawan6569/">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarawan65691212%2Fhit-counter"/>
+  </a>
+</div>
